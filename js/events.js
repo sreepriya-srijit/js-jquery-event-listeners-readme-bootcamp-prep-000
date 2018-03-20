@@ -9,6 +9,7 @@ pressIt();
 
 });
 
+<<<<<<< HEAD
 function getIt(){
   $('p').on('click',function(){
     alert("Hey!");
@@ -36,3 +37,10 @@ function pressIt(){
     
   });
 }
+=======
+function getit(){
+  &(document).on(’click’,function(){
+    alert("Hey!");
+  }
+}
+>>>>>>> dad277dfdebb5e087398c5b02d52bd83a0cae117
